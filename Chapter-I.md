@@ -25,6 +25,7 @@ Asimismo, proporcionaremos mayores facilidades a los usuarios, haciendo su día 
 
 #### 1.2.2.2. Lean UX Assumptions
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
 
